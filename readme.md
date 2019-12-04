@@ -1,3 +1,3 @@
----
-permalink: /docs/index.html
----
+#isascam
+
+For learning purposes only
